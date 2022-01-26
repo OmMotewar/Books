@@ -1,0 +1,20 @@
+body{
+  background: blue;
+}
+h1{
+  text-align: center;
+  padding: 30px;
+  color: #ffffff;
+  background-color: #cb997e;
+  font-family: cursive;
+}
+p{
+  font-size: 24px;
+  font-family:serif;
+}
+.navbar-brand{
+  font-family: cursive ;
+}
+.row{
+  font-family: serif;
+}
